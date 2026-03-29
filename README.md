@@ -1,5 +1,15 @@
-# 💫 About Me:
-Hi, I'm Issika Aymeric<br><br> Aspiring Cybersecurity Professional |  AI & Robotics Enthusiast | 🌐 Full-Stack Developer in Training<br><br> About Me<br><br>I'm a passionate and driven student exploring the intersection of  Cybersecurity, Artificial Intelligence, and Web Development. Currently studying programming, algorithms, and robotics while working on real-world projects like autonomous rovers and AI-powered web apps.<br><br>- 💻 Learning: Python, JavaScript (MERN Stack), Flask, PHP, SQL<br>- 🔐 Focus: Cybersecurity, Penetration Testing, and Ethical Hacking<br>- 🤝 Currently building: A smart canteen and clinic website for university services<br>- 📚 Always curious about new tech, systems thinking, and how to build efficient, secure digital solutions<br><br>🛠️ Tech Stack<br><br>- Languages: Python, JavaScript, HTML/CSS, PHP, SQL<br>- Frameworks & Tools: Flask, Node.js, Express, React, MongoDB, MySQL, SQLite, Arduino<br>- Other: Git, GitHub, VS Code, Agile development<br><br><br>🌍 Current Projects<br><br>- 🚗 Autonomous Rover with Radar and Temperature Sensors (Arduino-based)<br>- 🍽️ University Canteen Web App (Flask)<br>- 🏥 Online Medical Clinic System (Flask + MySQL)<br>- 🔐 Preparing to launch personal PenTest & CyberSec labs<br><br>📫 Let's Connect<br><br>- 📧 Email: issikathereal@gmail.com<br><br>
+# About Me
+ 
+**Issika Aymeric Kouamé** — First-Year CS Student · Full-Stack Developer · AI & ML Enthusiast
+ 
+I'm a Computer Science student at ** (Abidjan, Côte d'Ivoire) **, passionate about building intelligent, scalable digital solutions at the intersection of **AI, full-stack development, and open-source engineering**. I combine academic rigor with hands-on project experience — from AI-powered web apps to mobile applications and data pipelines.
+ 
+- 🎓 **Outstanding Freshman Award**
+- 🏅 **Certified**: freeCodeCamp Machine Learning with Python · Oracle AI Foundations
+- 💼 **Team Lead** on multiple academic and independent software projects
+- 🌍 Based in **Abidjan, Côte d'Ivoire** · Open to remote opportunities & internships
+ 
+---
 
 
 ## 🌐 Socials:
