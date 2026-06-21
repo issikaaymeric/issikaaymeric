@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/issikaaymeric)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aymericissika)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issika-aymeric-kouam%C3%A9-214866373/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?logo=vercel&logoColor=white)]([https://issikaaymeric.online](https://www.issikaaymeric.online/#))
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?logo=vercel&logoColor=white)]([https://www.issikaaymeric.online/#](https://www.issikaaymeric.online/#))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:issikathereal@gmail.com)
 
 </div>
