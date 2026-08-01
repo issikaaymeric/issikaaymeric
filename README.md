@@ -16,13 +16,12 @@
 
 ### 👋 About Me
 
-I'm a Computer Science student at **Africa Vision University** (Abidjan, Côte d'Ivoire), building at the intersection of **AI/ML, full-stack development, and mobile engineering**. Currently interning at Atihmam Conseils, where I built and maintain **Atihmam ATS** — a production applicant-tracking system with a multi-dimensional CV scoring engine.
+I'm a Computer Science student at **Africa Vision University** (Abidjan, Côte d'Ivoire), building at the intersection of **AI/ML, full-stack development, and mobile engineering**.
 
 ```yaml
 education:    "B.S. Computer Science, Africa Vision University — GPA 3.8/4.0"
 recognition:  "Outstanding Freshman Student Award (AVU x Ottawa University, 2025)"
 certified:    "freeCodeCamp ML with Python · Oracle AI Foundations Associate"
-currently:    "Full-stack engineering intern @ Atihmam Conseils"
 location:     "Abidjan, Côte d'Ivoire — open to remote internships"
 ```
 
