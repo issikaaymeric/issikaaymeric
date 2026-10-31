@@ -1,13 +1,158 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="100%" role="img" aria-label="Open to remote internships" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiMTA4ZjU2ZS0zMGQwLTQ1NjEtODI3ZS03NWY0NjAzZDMzNzAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKLKvBnB+AWCJvLgYFAE4rAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphOTAwZjllNy0zMWQ4LTQzODYtODBhOS1jYjBhZmZlOWY4ZDZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo3cdPScoYCzBZXaYlQtvbegAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggb2YrepTFAW9Zv1d2aGHKmFSm+97lXAV6bWkRlSoZ9h2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaK6XcmIy6p/c6Rw1U/xm+EAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCnsoJ+NiKXNvjSMwAVAPzueO3Yk6EyIrHt/92VWTNNb2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi+Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmIxMDhmNTZlLTMwZDAtNDU2MS04MjdlLTc1ZjQ2MDNkMzM3MC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmZhYTQ5ZDkwLWNiMjMtNDljOS04NmRmLWVkYWY0YzJlYTAzMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBvZit6lMUBb1m/V3ZoYcqYVKb73uVcBXptaRGVKhn2HaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggXnPV6b410Y6S0w1VCmq5XGKowTHvwzancjp/GlbUf1uiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggrXbxod/lIwCXG8G3dchcSQ30EC8Xe5eb7Cjjkn6il7B0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJV9smmkquOojgB3vvFoVAA8MAD9Cu1oG6Df+rwiLXrP55L2ZPrb6FzhBS3WxRQ3znA+d+wmj1gdnWL/KoL4xLQ=</c2pa:manifest></metadata>
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#0c2a52"/></linearGradient>
-  <clipPath id="c"><rect width="1000" height="110" rx="16"/></clipPath></defs>
-  <style>.t{font:600 18px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e2e8f0}.s{font:400 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#94a3b8}</style>
-  <g clip-path="url(#c)">
-    <rect width="1000" height="110" fill="url(#g)"/>
-    <path d="M0 92 Q 125 72 250 92 T 500 92 T 750 92 T 1000 92 V110 H0Z" fill="#60a5fa" fill-opacity="0.2"><animateTransform attributeName="transform" type="translate" values="0 0;-250 0" dur="7s" repeatCount="indefinite"/></path>
-    <path d="M0 100 Q 125 84 250 100 T 500 100 T 750 100 T 1000 100 V110 H0Z" fill="#a78bfa" fill-opacity="0.25"><animateTransform attributeName="transform" type="translate" values="-250 0;0 0" dur="9s" repeatCount="indefinite"/></path>
-    <circle cx="372" cy="44" r="5" fill="#34d399"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
-    <text x="500" y="50" text-anchor="middle" class="t">Open to remote internships</text>
-    <text x="500" y="74" text-anchor="middle" class="s">Let's build something secure and intelligent</text>
-  </g>
-</svg>
+<div align="center">
+
+<img src="assets/header.svg" alt="Issika Aymeric Kouamé — Full-Stack AI Engineer" width="100%">
+
+<br>
+
+<a href="https://www.issikaaymeric.online/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/issika-aymeric-kouam%C3%A9-214866373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://tryhackme.com/p/issikathereal"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+<a href="mailto:issikathereal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<h2 align="center">About</h2>
+
+<p align="center">
+Computer Science student at <b>Africa Vision University</b> (Abidjan, Côte d'Ivoire), GPA 3.8/4.0.<br>
+I build <b>production web apps with AI built in</b>: LLM integration, semantic search, async data pipelines and agent workflows.<br>
+Security is part of the design: authentication, input validation and prompt-injection defense at every layer.
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Intern-Atihmam%20Conseils-2563EB?style=for-the-badge" alt="Full-stack intern at Atihmam Conseils">
+<img src="https://img.shields.io/badge/TryHackMe-Top%2020%25-16A34A?style=for-the-badge" alt="TryHackMe top 20 percent">
+<img src="https://img.shields.io/badge/Award-Outstanding%20Freshman%202025-7C3AED?style=for-the-badge" alt="Outstanding Freshman Student Award 2025">
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<h2 align="center">Featured work</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [AI-Grader](https://github.com/issikaaymeric/AI-Grader)
+Rubric-agnostic assignment grading with structured, criterion-level feedback. Pydantic-validated model output, authentication, and prompt-injection defenses.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square" alt="LLMs">
+
+</td>
+<td width="50%" valign="top">
+
+### [Susie — AI coding assistant](https://github.com/issikaaymeric/Susie)
+VS Code extension backed by a Fastify service that streams DeepSeek responses over WebSockets, with per-install authentication and isolated sessions.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Fastify-202020?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"> <img src="https://img.shields.io/badge/WebSockets-0EA5E9?style=flat-square" alt="WebSockets">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Local-First AI Agent](https://github.com/issikaaymeric/ai-agent)
+Desktop and CLI assistant with persistent SQLite memory, automatic multi-provider LLM fallback, human approval gates for sensitive commands, and Whisper voice input.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Whisper-7C3AED?style=flat-square" alt="Whisper">
+
+</td>
+<td width="50%" valign="top">
+
+### [Async Web Scraper & Pipeline](https://github.com/issikaaymeric/async_web_scrapper_pipeline)
+Concurrent crawler with configurable limits, retries, and robots.txt compliance, feeding a Streamlit price-tracking dashboard with CSV export.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square" alt="aiohttp"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Stock Price Direction Prediction](https://github.com/issikaaymeric/Stock-Price-Prediction)
+Time-series classification with chronological holdout and expanding-window cross-validation to prevent look-ahead bias, benchmarked honestly against a naive baseline.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square" alt="XGBoost"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+
+</td>
+<td width="50%" valign="top">
+
+### Atihmam ATS · internship, private
+Production applicant-tracking system: automated CV ingestion, data extraction, duplicate detection, semantic matching, and LLM-assisted candidate evaluation.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+
+</td>
+</tr>
+</table>
+
+<p align="center">More on my <a href="https://github.com/issikaaymeric?tab=repositories">repositories page</a> and the <a href="https://www.issikaaymeric.online/">portfolio</a>.</p>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<h2 align="center">Security</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Wazuh SIEM home lab**<br>
+Sysmon telemetry, real-time file integrity monitoring, VirusTotal integration and CVE triage by CVSS.
+
+**Linux firewall hardening**<br>
+Default-deny `iptables` with stateful rules and logging.
+
+</td>
+<td width="50%" valign="top">
+
+**Segmented campus network**<br>
+Six VLANs, inter-VLAN routing, DHCP and 802.1Q trunks in Cisco Packet Tracer.
+
+**TryHackMe, top 20%**<br>
+28 rooms: web exploitation, privilege escalation, hash cracking, Active Directory. [View profile](https://tryhackme.com/p/issikathereal)
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<h2 align="center">Tech stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,cpp,php,fastapi,nodejs,express,react,flutter&perline=12" alt="Languages and frameworks"><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,sqlite,firebase,redis,pytorch,tensorflow,sklearn,pandas,numpy,docker&perline=12" alt="Data, AI and infrastructure"><br>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux&perline=12" alt="Tools">
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<h2 align="center">Certifications</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B-SY0--701%20prep-E11D48?style=flat-square" alt="CompTIA Security+ SY0-701 preparation">
+<img src="https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle AI Foundations Associate">
+<img src="https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp JavaScript Algorithms">
+<img src="https://img.shields.io/badge/freeCodeCamp-Scientific%20Computing-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Scientific Computing with Python">
+</p>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<h2 align="center">GitHub stats</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=issikaaymeric&show_icons=true&hide_border=true&count_private=true&bg_color=0b1020&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1&ring_color=60a5fa" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issikaaymeric&layout=compact&hide_border=true&bg_color=0b1020&title_color=60a5fa&text_color=cbd5e1" alt="Top languages">
+
+</div>
+
+<br>
+
+<img src="assets/footer.svg" alt="Open to remote internships" width="100%">
